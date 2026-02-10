@@ -21,4 +21,4 @@ I'm a junior developer building real projects to improve my skills and looking f
 - Junior Developer position  
 - CDI/CDD
 
-📫 **Contact:** Allan Lixon | wdfallan@gmail.com
+📫 **Contact:** [Allan Lixon](https://www.linkedin.com/in/allan-lixon-182841222/) | wdfallan@gmail.com
