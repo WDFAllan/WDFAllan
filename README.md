@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome, I'm Allan
 
-<!--
-**WDFAllan/WDFAllan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Junior Fullstack Developer  
+📍 Belgium | Open to Brussels & Remote  
+⚙️ React • TypeScript • Java • Spring Boot  
 
-Here are some ideas to get you started:
+I'm a junior developer building real projects to improve my skills and looking for my first professional opportunity in development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React, Angular, TypeScript, HTML, CSS  
+- **Backend:** Java, Spring Boot, Python, .NET, REST APIs  
+- **Database:** PostgreSQL / MySQL  
+- **Tools:** Git, Docker, IntelliJ
+
+## 🛠️ Featured Projects
+🍽️ **Cookbook App** – Fullstack React & Spring Boot  
+🎵 **Songship** – Frontend TypeScript project  
+📊 **CryptoBalancer** – Python data project / Angular  
+
+## 🎯 What I'm looking for
+- Junior Developer position  
+- CDI/CDD
+
+📫 **Contact:** Allan Lixon | wdfallan@gmail.com
