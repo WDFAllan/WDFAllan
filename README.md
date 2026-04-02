@@ -1,8 +1,8 @@
 # Welcome, I'm Allan
 
 👨‍💻 Junior Fullstack Developer  
-📍 Belgium | Open to Brussels & Remote  
-⚙️ React • TypeScript • Java • Spring Boot  
+📍 Belgium | Open to Hainaut, Brussels & Remote  
+⚙️ React • TypeScript • Java • Spring Boot • python
 
 I'm a junior developer building real projects to improve my skills and looking for my first professional opportunity in development.
 
@@ -10,7 +10,7 @@ I'm a junior developer building real projects to improve my skills and looking f
 - **Frontend:** React, Angular, TypeScript, HTML, CSS  
 - **Backend:** Java, Spring Boot, Python, .NET, REST APIs  
 - **Database:** PostgreSQL / MySQL  
-- **Tools:** Git, Docker, IntelliJ
+- **Tools:** Git, Docker, VSCode
 
 ## 🛠️ Featured Projects
 🍽️ **Cookbook App** – Fullstack React & Spring Boot  
